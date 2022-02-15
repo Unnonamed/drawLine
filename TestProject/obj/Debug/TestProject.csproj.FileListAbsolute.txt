@@ -1,0 +1,12 @@
+E:\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe.config
+E:\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe
+E:\Downloads\TestProject\TestProject\bin\Debug\TestProject.pdb
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.MainForm.resources
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.exe
+E:\Downloads\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\git\draw_C#\drawLine\TestProject\bin\Debug\TestProject.exe.config
+D:\git\draw_C#\drawLine\TestProject\obj\Debug\TestProject.exe
+D:\git\draw_C#\drawLine\TestProject\obj\Debug\TestProject.pdb
